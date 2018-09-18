@@ -10,12 +10,12 @@ int main(void)
         sum= sum+k;
         k++;
     }
-    printf("sum = %d\n", sum);
+    printf("sum - %d\n", sum);
 
 
 
     for (k=10; k>0; k--) {
-        printf("       %d\n", k);
+        printf("%d\n", k);
     }
 
 printf("  Blastoff!\n");
