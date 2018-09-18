@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
-    int sum=10;
+    int sum=0;
     int k=0;
 
     while (k<5)
@@ -14,7 +14,7 @@ int main(void)
 
 
     for (k=9; k>0; k--) {
-        printf("%d\n", k);
+        printf("       %d\n", k);
     }
 
 
