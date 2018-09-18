@@ -17,7 +17,8 @@ int main(void)
         printf("       %d\n", k);
     }
 
-
+printf("  Blastoff!\n");
+return 0;
 
 }
 
