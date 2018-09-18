@@ -6,16 +6,16 @@ int main(void)
 
     while (k<5)
     {
-        printf("%d\n",k);
+        printf("       %d\n",k);
         sum= sum+k;
         k++;
     }
-    printf("sum - %d\n", sum);
+    printf("sum = %d\n", sum);
 
 
 
-    for (k=10; k>0; k--) {
-        printf("%d\n", k);
+    for (k=9; k>0; k--) {
+        printf("       %d\n", k);
     }
 
 printf("  Blastoff!\n");
