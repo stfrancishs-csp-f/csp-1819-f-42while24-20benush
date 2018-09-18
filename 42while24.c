@@ -6,6 +6,7 @@ int main(void)
 
     while (k<5)
     {
+        printf("%d\n",k);
         sum= sum+k;
         k++;
     }
